@@ -3,3 +3,4 @@ This repo contains Jupyter notebooks with home works for the zoomcamp machine le
 
 - session-02 - linear regression
 - session-03 - logistic regression, classification
+- session-04 - evaluation metrics for classification
