@@ -87,3 +87,12 @@ docker run -it -p 9696:9696 car-price-prediction:latest
 ```
 
 It can be accessed in the same way using REST client at http://localhost:9696/predict
+
+
+## Deployment
+
+This app can be easily deployed to the cloud of choice. There are some very nice instructions from our great fellows on how to deploy to:
+
+* [AWS Elastic Beanstalk (Thnx Alexey G.)](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/05-deployment/07-aws-eb.md)
+* [PythonAnywhere (Thnx nindate)](https://github.com/nindate/ml-zoomcamp-exercises/blob/main/how-to-use-pythonanywhere.md)
+* [Heroku (Thnx razekmaiden)](https://github.com/razekmaiden/churn_service_heroku)
