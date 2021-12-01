@@ -8,3 +8,4 @@ This repo contains Jupyter notebooks with homeworks for the zoomcamp machine lea
 - session-06 - tree-based regression model
 - midterm-project-07 - car price prediction using different models
 - session-08 - CNN binary classification
+- session-09 - Using tflite and AWS Lambda with Docker
