@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+keras = "==2.6.0"
+tensorflow = "==2.6.0"
+
+[packages]
+pillow = "*"
+SciPy = "*"
+flask = "*"
+gunicorn = "*"
+numpy = "*"
+tflite-runtime = {file = "https://github.com/google-coral/pycoral/releases/download/v2.0.0/tflite_runtime-2.5.0.post1-cp39-cp39-linux_x86_64.whl"}
+
+[requires]
+python_version = "3.9"
