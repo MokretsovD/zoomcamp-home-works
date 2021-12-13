@@ -55,7 +55,11 @@ def predict():
     
     float_predictions = preds[0].tolist()
 
-    return jsonify(float_predictions)
+    result = {
+      "healthy": float_predictions[0]
+    }
+
+    return jsonify(result)
 
 if __name__ == "__main__":
   app.run(debug=True, host='0.0.0.0', port=9696, reloader_interval=3)
