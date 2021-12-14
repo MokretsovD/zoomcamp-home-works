@@ -4,7 +4,7 @@
 
 I decided to choose Malaria Cell Images dataset for my capstone project because I believe it is great for applying what we learned so far about neural networks and deep learning on practice. The goal here is to experiment with different techniques we covered throughout the course and try to get as best result as possible. 
 
-In order to test the project this dataset has to be downloaded from Kaggle by following this [Link](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) and pressing __*Download*__ button at the top right part of the page. Downloaded 'archive.zip' file must be placed in the same directory as this file
+In order to test the project this dataset has to be downloaded from Kaggle by following this [Link](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria) and pressing __*Download*__ button at the top right part of the page. Alternatively the same file can be downloaded from [OneDrive](https://1drv.ms/u/s!Ak1DnqTabSUj-PgPn39945WOZoWkyA?e=Qc3K9y) till 01.03.2022. Downloaded 'archive.zip' file must be placed in the same directory as this file
 
 ## Files
 
