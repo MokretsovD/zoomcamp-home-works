@@ -1,4 +1,4 @@
-# Car price Prediction
+# Malaria Prediction
 
 ## Description
 
